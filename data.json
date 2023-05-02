@@ -1,0 +1,222 @@
+[
+    {
+    "sentence": "No matter who you are, no matter how strong you are, sooner or later, you'll face circumstances beyond your control.",
+    "character": {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy.",
+    "character": {
+    "name": "Aemon Targaryen",
+    "slug": "aemon",
+    "house": {
+    "name": "House Targaryen of King's Landing",
+    "slug": "targaryen"
+    }
+    }
+    },
+    {
+    "sentence": "If you think this has a happy ending, you haven't been paying attention.",
+    "character": {
+    "name": "Ramsay Bolton",
+    "slug": "ramsay",
+    "house": {
+    "name": "House Bolton of the Dreadfort",
+    "slug": "bolton"
+    }
+    }
+    },
+    {
+    "sentence": "Can a man still be brave if he's afraid? That is the only time a man can be brave.",
+    "character": {
+    "name": "Bran Stark",
+    "slug": "bran",
+    "house": {
+    "name": "House Stark of Winterfell",
+    "slug": "stark"
+    }
+    }
+    },
+    {
+    "sentence": "There is only one war that matters. The Great War. And it is here.",
+    "character": {
+    "name": "Jon Snow",
+    "slug": "jon",
+    "house": {
+    "name": "House Stark of Winterfell",
+    "slug": "stark"
+    }
+    }
+    },
+    {
+    "sentence": "Three victories don't make you a conqueror.",
+    "character": {
+    "name": "Jaime Lannister",
+    "slug": "jaime",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "Every man must die, Jon Snow. but first, he must live",
+    "character": {
+    "name": "Ygritte",
+    "slug": "ygritte",
+    "house": {
+    "name": null,
+    "slug": null
+    }
+    }
+    },
+    {
+    "sentence": "I have a tender spot in my heart for cripples, bastards and broken things.",
+    "character": {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "Burn them all!",
+    "character": {
+    "name": "Aerys II Targaryen",
+    "slug": "aerys",
+    "house": {
+    "name": "House Targaryen of King's Landing",
+    "slug": "targaryen"
+    }
+    }
+    },
+    {
+    "sentence": "The things I do for love.",
+    "character": {
+    "name": "Jaime Lannister",
+    "slug": "jaime",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "I have always found revenge to be the purest of motivations.",
+    "character": {
+    "name": "Petyr Baelish",
+    "slug": "baelish",
+    "house": {
+    "name": "House Baelish of Harrenhal",
+    "slug": "baelish"
+    }
+    }
+    },
+    {
+    "sentence": "People often claim to hunger for truth, but seldom like the taste when it's served up.",
+    "character": {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "Tears aren't a woman's only weapon. The best one's between your legs.",
+    "character": {
+    "name": "Cersei Lannister",
+    "slug": "cersei",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "Leave one wolf alive and the sheep are never safe.",
+    "character": {
+    "name": "Arya Stark",
+    "slug": "arya",
+    "house": {
+    "name": "House Stark of Winterfell",
+    "slug": "stark"
+    }
+    }
+    },
+    {
+    "sentence": "I am the dragon's daughter, and I swear to you that those who would harm you will die screaming.",
+    "character": {
+    "name": "Daenerys Targaryen",
+    "slug": "daenerys",
+    "house": {
+    "name": "House Targaryen of King's Landing",
+    "slug": "targaryen"
+    }
+    }
+    },
+    {
+    "sentence": "Laughter is poison to fear.",
+    "character": {
+    "name": "Catelyn Stark",
+    "slug": "catelyn",
+    "house": {
+    "name": "House Stark of Winterfell",
+    "slug": "stark"
+    }
+    }
+    },
+    {
+    "sentence": "I'm the King, I get what I want. I never loved my brothers. Sad thing for a man to admit, but it's true. You were the brother I chose.",
+    "character": {
+    "name": "Robert Baratheon",
+    "slug": "robert",
+    "house": {
+    "name": "House Baratheon of Dragonstone",
+    "slug": "baratheon"
+    }
+    }
+    },
+    {
+    "sentence": "Everyone who makes a joke about a dwarf's height thinks he's the only person ever to make a joke about a dwarf's height.",
+    "character": {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "That bit of theatre will haunt our family for a generation.",
+    "character": {
+    "name": "Tyrion Lannister",
+    "slug": "tyrion",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    },
+    {
+    "sentence": "I don't care about checking my worst impulses. I don't care about making the world a better place. Hang the world.",
+    "character": {
+    "name": "Cersei Lannister",
+    "slug": "cersei",
+    "house": {
+    "name": "House Lannister of Casterly Rock",
+    "slug": "lannister"
+    }
+    }
+    }
+    ]
